@@ -1,5 +1,6 @@
 # Bank-Web-Simulation
-Jest to symulacja strony banku, która umożliwia przesyłanie pieniędzy, tworzenie kont czy edytowanie danych przez admina.
+Jest to symulacja strony banku, która umożliwia przesyłanie pieniędzy, tworzenie kont czy edytowanie danych przez admina.<br>
+Do front-endu użyto frameworka BootStrap 4.
 <br>Edycja danych przez Admina:
 ![image](https://user-images.githubusercontent.com/13680034/220204351-24979b6d-a0ad-4d8a-8c58-91084399021d.png)
 Przykładowe konto - w tym przypadku Admina:
